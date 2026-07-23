@@ -1,0 +1,1 @@
+# Case-File-05-Investigating-Suspicious-Authentication-Activity-Using-KQL
